@@ -14,7 +14,7 @@ const Chip = () => {
         start: "20% bottom",
       },
       opacity: 0,
-      scale: 2,
+      scale: 1,
       duration: 2,
       ease: "power2.inOut",
     });
